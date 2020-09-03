@@ -9,7 +9,7 @@ I'm Daniel, a self-motivated tech enthusiast and full stack web developer.
 </p>
 
 <h4 align="center">
-💻 Bankend developer soon | 🌱 building <a href="https://github.com/danielmordi">Building project</a> | 💬 connect <a href="https://twitter.com/db_kodez">@db_kodez</a> | 📧 <a href="mailto:danielmordi.codes@gmail.com">danielmordi.codes@gmail.com</a>
+💻 Bankend developer soon | 🌱 building <a href="https://github.com/danielmordi">Building projects</a> | 💬 connect <a href="https://twitter.com/db_kodez">@db_kodez</a> | 📧 email <a href="mailto:danielmordi.codes@gmail.com">danielmordi.codes</a>
 </h4>
 <p  align="center">
 <a href="https://github.com/danielmordi">https://github.com/danielmordi</a>
