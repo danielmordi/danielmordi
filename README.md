@@ -1,18 +1,23 @@
 <img src="https://appachhi.com/blog/wp-content/uploads/2018/03/thumb-1920-587777.png" alt="header" height="450" style="max-width:100%;">
-### Hi there 👋, I'm Daniel Mordi
 
-<!--
-**danielmordi/danielmordi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center"> Hi there 👋</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+I'm Daniel, a self-motivated tech enthusiast and full stack web developer.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h4 align="center">
+💻 Bankend developer soon | 🌱 building <a href="https://github.com/danielmordi">Building project</a> | 💬 connect <a href="https://twitter.com/db_kodez">@db_kodez</a> | 📧 <a href="mailto:danielmordi.codes@gmail.com">danielmordi.codes@gmail.com</a>
+</h4>
+<p  align="center">
+<a href="https://github.com/danielmordi">https://github.com/danielmordi</a>
+</p>
 
--->
+<br/>
+<h3 align="center">
+My Tech Stacks
+</h3>
+
+<h3 align="center">
+PHP || JAVASCRIPT || PYTHON || MYSQL || POSGRESQL || LARAVEL || BOOTSTRAP 
+</h3>
