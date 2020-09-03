@@ -1,6 +1,6 @@
-### Hi there 👋
+<img src="https://appachhi.com/blog/wp-content/uploads/2018/03/thumb-1920-587777.png" alt="header" height="450" style="max-width:100%;">
+### Hi there 👋, I'm Daniel Mordi
 
-![Hey there, I'm Cyris. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
 <!--
 **danielmordi/danielmordi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
