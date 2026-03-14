@@ -1,4 +1,4 @@
-# Hi there 👋
+# Laravel & API Engineer building scalable SaaS products and automation systems for businesses.
 
 I'm **Daniel**, a self-motivated tech enthusiast and **Full Stack Web Developer** with over 6 years of experience building and deploying web applications.
 
@@ -8,7 +8,7 @@ I'm **Daniel**, a self-motivated tech enthusiast and **Full Stack Web Developer*
 
 ### 👨‍💻 What I Do
 
-- 💼 **Backend Developer**: I build scalable server-side applications and RESTful APIs using PHP, Laravel, and MySQL.
+- 💼 **Backend Developer**: Backend Developer: Built SaaS systems, automation tools, and APIs used by businesses to manage bookings, data scraping, and messaging bots.
 - 🚀 **Project Builder**: I enjoy bringing ideas to life — from scratch to production — using clean code and modern tools.
 - 🧑‍🏫 **Tutor & Mentor**: I provide private tutoring in full stack development (PHP, JavaScript, Laravel, MySQL, etc.), helping others grow their skills and land freelance or internship roles.
 
